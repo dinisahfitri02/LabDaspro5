@@ -1,0 +1,21 @@
+Kartu Hasil Studi
+=================
+
+Nama :DINI SAHFITRI
+NIM  :231401033
+
+|============================================|
+|No.|Matkul                           |nilai |
+|============================================|
+|1. |Pendidikan Pancasila             |A     |
+|2. |Bahasa Indonesia                 |A     |
+|3. |Logika Matematika                |A     |
+|4. |Dasar Pemrograman                |A     |
+|5. |Pengantar Ilmu Komputer          |A     |
+|6. |Matematika Dasar                 |A     |
+|7. |Organisasi Arsitektur Komputer   |A     |
+|8. |Lab Dasar Pemrograman            |A     |
+|============================================|
+
+Total SKS     :19
+IP Semester   :4.00
